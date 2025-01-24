@@ -1,0 +1,1 @@
+import{q as t,n as s}from"./icon-alert-Cei3Tz55.js";const o=s(t({name:"AppButtonRow"}),(function(){var t=this,s=t._self._c;return t._self._setupProxy,s("div",{staticClass:"app-button-row"},[t._t("default")],2)}),[],!1,null,"fa6f8799").exports;export{o as A};

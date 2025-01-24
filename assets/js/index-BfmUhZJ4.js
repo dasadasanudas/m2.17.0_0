@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/js/MotionPlugin-DltUn4Nf.js","assets/js/preload-helper-xKIU3iAw.js"])))=>i.map(i=>d[i]);
+import{_ as n}from"./preload-helper-xKIU3iAw.js";async function o(o,i=!0){const{MotionPlugin:t}=await n((async()=>{const{MotionPlugin:n}=await import("./MotionPlugin-DltUn4Nf.js");return{MotionPlugin:n}}),__vite__mapDeps([0,1]));await o.addPlugin(new t(o),i)}export{o as loadMotionPlugin};

@@ -1,0 +1,1 @@
+import{n as e}from"./icon-alert-Cei3Tz55.js";const s=e({name:"BaseDropdownDivider"},(function(){return(0,this._self._c)("div",{staticClass:"base-dropdown-divider"})}),[],!1,null,"72e6e149").exports;export{s as B};

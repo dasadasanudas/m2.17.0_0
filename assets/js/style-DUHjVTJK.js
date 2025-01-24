@@ -1,0 +1,1 @@
+import{u as s}from"./ViewState-Wts6aMTb.js";const t=s("tasks",{views:{lists:{defaultView:!0,order:1}}});export{t as u};
